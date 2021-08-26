@@ -1,4 +1,4 @@
-## Welcome to GitHub Pages
+## Welcome to Ella Patterson's portfolio
 
 You can use the [editor on GitHub](https://github.com/ella1239/2022portfolio/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
 
